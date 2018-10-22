@@ -32,7 +32,6 @@ steamcdn-a.akamaihd.net
 *.steamstatic.com
 *.steam-content-dnld-1.us-e2-cdn.cqloud.com
 *.steamstatic.com
-steam-chat.com
 steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
 steamcommunity-a.akamaihd.net
