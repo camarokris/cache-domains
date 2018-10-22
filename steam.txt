@@ -27,3 +27,15 @@ steam.apac.qtlglb.com
 edge.steam-dns.top.comcast.net
 edge.steam-dns-2.top.comcast.net
 steamcdn-a.akamaihd.net
+*.steampowered.com
+*.steampowered.com
+*.steamstatic.com
+*.steam-content-dnld-1.us-e2-cdn.cqloud.com
+*.steamstatic.com
+steam-chat.com
+steambroadcast.akamaized.net
+steamcdn-a.akamaihd.net
+steamcommunity-a.akamaihd.net
+steamstore-a.akamaihd.net
+steamuserimages-a.akamaihd.net
+*.steamcontent.com
